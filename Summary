@@ -1,0 +1,16 @@
+Setelah mempelajari dan mempraktikkan proses data mining menggunakan Python, saya dapat menyimpulkan bahwa:
+
+pandas merupakan pustaka utama yang sangat membantu dalam membaca, membersihkan, dan memanipulasi data tabular. 
+Dengan pandas, saya bisa dengan mudah melihat struktur data, mengubah tipe data, dan menyiapkan dataset untuk dilatih oleh model.
+
+Pra-pemrosesan adalah langkah penting, terutama saat berhadapan dengan data kategorikal. Dengan menggunakan LabelEncoder, 
+saya berhasil mengubah data berbentuk teks menjadi numerik agar bisa dikenali oleh algoritma machine learning seperti Naive Bayes dan Decision Tree.
+
+Algoritma Naive Bayes sangat cocok untuk data kategorikal seperti prediksi cuaca. Model ini sederhana, cepat, dan tetap cukup akurat dalam kasus klasifikasi dasar.
+
+Decision Tree memberikan visualisasi logika pengambilan keputusan dan cocok untuk memahami struktur data secara lebih mendalam. Model ini juga fleksibel dan mudah dipahami.
+
+Evaluasi model menggunakan metrik seperti akurasi dan confusion matrix sangat penting untuk mengetahui seberapa baik model bekerja. Dalam hal ini, saya menggunakan 
+matplotlib untuk memvisualisasikan hasil prediksi dan memahami kesalahan model dengan lebih jelas.
+
+Keseluruhan proses — dari membaca data hingga menampilkan hasil prediksi — membentuk alur kerja data mining yang sistematis. Saya kini lebih memahami pentingnya tiap tahap dan bagaimana mereka saling terhubung.
